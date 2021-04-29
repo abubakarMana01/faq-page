@@ -11,7 +11,7 @@ body {
 	font-family: 'Poppins', sans-serif;
 	/* font-family: 'Lato', sans-serif; */
 	background: rgba(69, 13, 114, 1);
-	background: linear-gradient(to top, rgba(69, 13, 114, 1), rgba(190, 96, 239, 1));
+	background: linear-gradient(to top, hsl(273, 75%, 66%), hsl(240, 73%, 65%));
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
